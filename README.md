@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%96%96;This+is+Abhiraj+Rajput....;Nice+to+meet+you!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&width=435&lines=Hello%2C+There!+%F0%9F%96%96;This+is+Prince....;Nice+to+meet+you!" alt="Typing SVG" /></a>
 </div>
 
 ###
