@@ -26,7 +26,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abhiraj021.abhiraj021&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prince7100.prince7100&"  />
 </div>
 
 ###
@@ -102,7 +102,7 @@
 ###
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=abhiraj021"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=prince73100"/></a>
 </p>
 
 
